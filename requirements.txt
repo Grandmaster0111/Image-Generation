@@ -1,0 +1,10 @@
+opendatasets
+torch
+torchvision
+matplotlib
+tqdm
+ipython
+opencv-python
+ipywidgets
+widgetsnbextension 
+pandas-profiling
